@@ -32,3 +32,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for buil
 
 ## Fun Stuff
 - 🎹 I like playing the piano.
+
+---
+
+Feel free to reach out. Happy coding!
