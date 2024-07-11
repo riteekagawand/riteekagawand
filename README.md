@@ -27,10 +27,6 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for buil
 - **[To-Do List Application](https://github.com/riteekagawand/To-DO-List)**: A simple to-do list application built with Next.js and MongoDB.
 - **[Weather App](https://github.com/riteekagawand/Weather-App)**: A weather forecasting application using React.
 
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide=contribs,issues)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
 ## Get in Touch
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riteeka-gawand-702553212/)
 
