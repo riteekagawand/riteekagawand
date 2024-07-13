@@ -26,6 +26,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for buil
 ## Projects
 - **[To-Do List Application](https://github.com/riteekagawand/To-DO-List)**: A simple to-do list application built with Next.js and MongoDB.
 - **[Weather App](https://github.com/riteekagawand/Weather-App)**: A weather forecasting application using React.
+- **[Lung Cancer Prediction System](https://github.com/riteekagawand/Lung-Cancer)**: A Lung Cancer Prediction App Using Flutter at FrontEnd and Python at Backend using ML concept.
 
 ## Get in Touch
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riteeka-gawand-702553212/)
