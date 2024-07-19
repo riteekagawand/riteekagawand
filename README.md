@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for buil
 - 🌱 I’m currently learning the MERN Stack (MongoDB, Express.js, React.js, Node.js)
 - 💼 I’m currently working at EDBA Academy as a Full Stack Developer Intern
 - 🧑‍💻 I’m working on a personal project named JOB Tracker
-- 💬 Ask me about web development, full stack development, and MERN stack
 - 📫 How to reach me: riteekagawand7@gmail.com
 
 ## My Tech Stack
@@ -30,8 +29,6 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for buil
 ## Get in Touch
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riteeka-gawand-702553212/)
 
-## Fun Stuff
-- 🎹 I like playing the piano.
 
 ---
 
