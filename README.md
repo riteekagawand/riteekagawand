@@ -30,6 +30,6 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for buil
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riteeka-gawand-702553212/)
 
 
-----
+---
 
 Feel free to reach out. Happy coding!
