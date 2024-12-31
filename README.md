@@ -1,7 +1,6 @@
 # Hello, I'm Riteeka Gawand 👋
 
-Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for building efficient and scalable web applications.
-
+Welcome to my GitHub profile! I'm a Full Stack Developer wa passion for building efficient and scalable web applicatio
 ## About Me
 - 🌱 I’m currently learning the MERN Stack (MongoDB, Express.js, React.js, Node.js)
 - 💼 I’m currently working at EDBA Academy as a Full Stack Developer Intern
