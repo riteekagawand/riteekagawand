@@ -1,10 +1,10 @@
-To make your README visually appealing, we can add a banner image or a GIF at the top. Here's an updated version of your README.md file with a banner image:
+![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
+  
+  
 
 ---
 
 # 🌟 Hello, I'm Riteeka Gawand! 👋  
-
-![Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmRmN2Y3NTJkNzNhZDM0Nzg5ZjFjMGRhZDM5ODAyYjM5MDM1YzM2ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dWesBcTLavkZuG35MI/giphy.gif)  
 
 Welcome to my GitHub profile!  
 I'm a **Full Stack Developer** passionate about creating innovative, scalable, and user-friendly web applications. I thrive on solving complex problems, crafting clean code, and collaborating to bring ideas to life. 🚀  
