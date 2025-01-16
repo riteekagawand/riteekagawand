@@ -10,7 +10,7 @@ Welcome to my GitHub profile!
 I'm a **Full Stack Developer** passionate about creating innovative, scalable, and user-friendly web applications. I thrive on solving complex problems, crafting clean code, and collaborating to bring ideas to life. 🚀  
 
 Explore my projects, and let's connect to build something amazing together! 🌐  </td>
-    <td valign="top"><img src="https://pbs.twimg.com/media/GObE3i0WAAAxiZC?format=jpg&name=4096x4096" height=400 width=500/></td>
+    <td valign="top"><img src="https://pbs.twimg.com/media/GObE3i0WAAAxiZC?format=jpg&name=4096x4096" height=300 width=500/></td>
   </tr>
 </table>
 
