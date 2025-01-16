@@ -13,11 +13,23 @@
     <td valign="top" width="60%" style="padding-left:20px;">
       <h1>🌟 Hello, I'm Riteeka Gawand! 👋</h1>
       <p>
-        Welcome to my GitHub profile!  
-        I'm a <strong>Full Stack Developer</strong> passionate about creating innovative, scalable, 
-        and user-friendly web applications. 🚀  
+        Welcome to my GitHub profile! I’m a <strong>Full Stack Developer</strong> with a passion for crafting
+        innovative, scalable, and user-friendly web applications. I thrive on solving challenges, writing clean
+        code, and turning creative ideas into impactful solutions. 🚀  
       </p>
-      <p>Let's connect and build something amazing together! 🌐</p>
+      <p>
+        I’m currently focused on mastering the <strong>MERN stack</strong> (MongoDB, Express.js, React.js, Node.js)
+        to build dynamic, high-performing web applications. As a developer, I believe in the power of collaboration
+        and continuous learning to push boundaries and deliver excellence. 🌟  
+      </p>
+      <p>
+        Beyond coding, I enjoy exploring new technologies, enhancing user experiences, and playing the piano 🎶,
+        which fuels my creativity.  
+      </p>
+      <p>
+        Feel free to explore my projects, and let’s connect to discuss ideas or collaborate on exciting projects.
+        Together, we can create something truly amazing! 🌐  
+      </p>
     </td>
   </tr>
 </table>
