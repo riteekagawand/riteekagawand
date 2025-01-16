@@ -2,17 +2,26 @@
   
 ---
 
-<table>
+<table style="width:100%; table-layout:fixed; border-collapse:collapse;">
   <tr>
-    <td valign="top"># 🌟 Hello, I'm Riteeka Gawand! 👋  
-
-Welcome to my GitHub profile!  
-I'm a **Full Stack Developer** passionate about creating innovative, scalable, and user-friendly web applications. I thrive on solving complex problems, crafting clean code, and collaborating to bring ideas to life. 🚀  
-
-Explore my projects, and let's connect to build something amazing together! 🌐  </td>
-    <td valign="top"><img src="https://pbs.twimg.com/media/GObE3i0WAAAxiZC?format=jpg&name=4096x4096" height=200 width=500/></td>
+    <!-- Image Section (70%) -->
+    <td valign="top" width="70%">
+      <img src="https://pbs.twimg.com/media/GObE3i0WAAAxiZC?format=jpg&name=4096x4096" 
+           alt="Header Image" style="width:100%; height:auto; border-radius:8px;"/>
+    </td>
+    <!-- Text Section (30%) -->
+    <td valign="top" width="30%" style="padding-left:20px;">
+      <h1>🌟 Hello, I'm Riteeka Gawand! 👋</h1>
+      <p>
+        Welcome to my GitHub profile!  
+        I'm a <strong>Full Stack Developer</strong> passionate about creating innovative, scalable, 
+        and user-friendly web applications. 🚀  
+      </p>
+      <p>Let's connect and build something amazing together! 🌐</p>
+    </td>
   </tr>
 </table>
+
 
 ---
 
