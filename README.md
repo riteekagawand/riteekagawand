@@ -20,7 +20,7 @@ Explore my projects, and let's connect to build something amazing together! 🌐
 - 🛠 **Personal Project:** Working on **JOB Tracker**, a tool to streamline job applications  
 - 🎹 **Fun Fact:** I play the piano! 🎶  
 - 📩 **Reach Me:** [riteekagawand7@gmail.com](mailto:riteekagawand7@gmail.com)
-- 🌐 **Portfolio:** riteekagawand-portfolio.vercel.app
+- 🌐 **Portfolio:** [Riteeka Gawand](riteekagawand-portfolio.vercel.app)
 
 ---
 
