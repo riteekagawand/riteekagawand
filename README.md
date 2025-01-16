@@ -19,7 +19,8 @@ Explore my projects, and let's connect to build something amazing together! 🌐
 - 🌟 **Internship:** Full Stack Developer Intern at **EDBA Academy**  
 - 🛠 **Personal Project:** Working on **JOB Tracker**, a tool to streamline job applications  
 - 🎹 **Fun Fact:** I play the piano! 🎶  
-- 📩 **Reach Me:** [riteekagawand7@gmail.com](mailto:riteekagawand7@gmail.com)  
+- 📩 **Reach Me:** [riteekagawand7@gmail.com](mailto:riteekagawand7@gmail.com)
+- 🌐 **Portfolio:** riteekagawand-portfolio.vercel.app
 
 ---
 
@@ -50,7 +51,7 @@ Explore my projects, and let's connect to build something amazing together! 🌐
 
 ## 🌟 Featured Projects  
 
-- 🎯 **[To-Do List Application](https://github.com/riteekagawand/To-DO-List):** A productivity app built using **Next.js** and **MongoDB**.  
+- 🎯 **[My Portfolio](https://github.com/riteekagawand/Portfolio-new) :** A productivity app built using **React.js**
 - 🚀 **[Swift Path](https://github.com/riteekagawand/VH24-WEBMASTERS):** A gamified delivery application designed for seamless logistics.  
 
 ---
@@ -67,5 +68,3 @@ Feel free to reach out if you'd like to collaborate, chat, or exchange ideas.
 Happy coding! 😊  
 
 ---
-
-The banner image can be changed to any other image or GIF you prefer! Let me know if you want help customizing it further.
