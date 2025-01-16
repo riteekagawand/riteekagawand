@@ -2,16 +2,21 @@
   
 ---
 
-<img src="https://pbs.twimg.com/media/GObE3i0WAAAxiZC?format=jpg&name=4096x4096" height=200 width=300/>
-
----
-
-# 🌟 Hello, I'm Riteeka Gawand! 👋  
+<table>
+  <tr>
+    <td valign="top"># 🌟 Hello, I'm Riteeka Gawand! 👋  
 
 Welcome to my GitHub profile!  
 I'm a **Full Stack Developer** passionate about creating innovative, scalable, and user-friendly web applications. I thrive on solving complex problems, crafting clean code, and collaborating to bring ideas to life. 🚀  
 
-Explore my projects, and let's connect to build something amazing together! 🌐  
+Explore my projects, and let's connect to build something amazing together! 🌐  </td>
+    <td valign="top"><img src="https://pbs.twimg.com/media/GObE3i0WAAAxiZC?format=jpg&name=4096x4096" height=200 width=300/></td>
+  </tr>
+</table>
+
+---
+
+
 
 ---
 
