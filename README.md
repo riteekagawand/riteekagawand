@@ -19,12 +19,7 @@
       </p>
       <p>
         I’m currently focused on mastering the <strong>MERN stack</strong> (MongoDB, Express.js, React.js, Node.js)
-        to build dynamic, high-performing web applications. As a developer, I believe in the power of collaboration
-        and continuous learning to push boundaries and deliver excellence. 🌟  
-      </p>
-      <p>
-        Beyond coding, I enjoy exploring new technologies, enhancing user experiences, and playing the piano 🎶,
-        which fuels my creativity.  
+        to build dynamic, high-performing web applications.🌟  
       </p>
       <p>
         Feel free to explore my projects, and let’s connect to discuss ideas or collaborate on exciting projects.
