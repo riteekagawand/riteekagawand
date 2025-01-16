@@ -5,12 +5,12 @@
 <table style="width:100%; table-layout:fixed; border-collapse:collapse;">
   <tr>
     <!-- Image Section (70%) -->
-    <td valign="top" width="30%">
+    <td valign="top" width="40%">
       <img src="https://pbs.twimg.com/media/GObE3i0WAAAxiZC?format=jpg&name=4096x4096" 
            alt="Header Image" style="width:100%; height:auto; border-radius:8px;"/>
     </td>
     <!-- Text Section (30%) -->
-    <td valign="top" width="70%" style="padding-left:20px;">
+    <td valign="top" width="60%" style="padding-left:20px;">
       <h1>🌟 Hello, I'm Riteeka Gawand! 👋</h1>
       <p>
         Welcome to my GitHub profile!  
